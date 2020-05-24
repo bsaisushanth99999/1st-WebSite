@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1{
+    color: #66BFBF;
+    font-size: 4rem;
+    margin-top: 0; 
+    margin-bottom: 0;
+    padding-top: 200px;
+    position: relative;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #66BFBF;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.topcontainer{
+    margin: 0px;
+    background-color: #def4f0;
+}
+.middlecontainer{
+    margin-top: 100px;
+}
+.cloud{
+    position: absolute;
+    right: 150px;
+    top:40px;
+}
+.cloud2{
+    position: absolute;
+    left: 200px;
+    top:250px;
+}
+.cloud3{
+    position: absolute;
+    right: 550px;
+    top: 450px;
+}
+.propic{
+    padding: 20px;
+    height: 200px;
+}
+.computerpic{
+    margin-right: 40px;
+    float: left;
+    width: 25%;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: sandybrown;
+    border-top-width:5px;
+    width: 5%;
+    margin: 50px auto;
+}
+.skill-row{
+    margin : 100px auto;
+    width: 50%;
+    text-align: left;
+}
+.skill-row2{
+    margin :  200px auto;
+    width: 50%;
+    text-align: right;
+}
+.chilliimage{
+    margin-left: 30px;
+    float: right;
+    width: 25%;
+}
+.bottomcontainer{   
+    text-decoration: none;
+    padding: 20px;
+    margin-bottom: 0px;
+    background-color: #66BFBF;
+}
+.footer-link{
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: cyan;
+}
+.btn {
+	background-color:#66bfbf;
+	-webkit-border-top-left-radius:12px;
+	-moz-border-radius-topleft:12px;
+	border-top-left-radius:12px;
+	-webkit-border-top-right-radius:12px;
+	-moz-border-radius-topright:12px;
+	border-top-right-radius:12px;
+	-webkit-border-bottom-right-radius:12px;
+	-moz-border-radius-bottomright:12px;
+	border-bottom-right-radius:12px;
+	-webkit-border-bottom-left-radius:12px;
+	-moz-border-radius-bottomleft:12px;
+	border-bottom-left-radius:12px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:24px;
+	font-weight:bold;
+	font-style:normal;
+height:47px;
+	line-height:47px;
+width:200px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 19px #2f6627;
+}.btn:hover {
+	background-color:#13d6d6;
+}.btn:active {
+	position:relative;
+	top:1px;
